@@ -3,7 +3,6 @@
 import React from 'react'
 import {BsArrowDownRight} from "react-icons/bs"
 import Link from 'next/link';
-import { title } from 'process';
 
 
 const Services =[

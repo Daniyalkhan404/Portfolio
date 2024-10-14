@@ -1,8 +1,6 @@
 "use client"
 
-import { Item } from '@radix-ui/react-select';
 import Link from 'next/link';
-import path from 'path'
 import React from 'react'
 import {FaGithub, FaLinkedinIn,FaYoutube,FaTwitter} from "react-icons/fa"
 

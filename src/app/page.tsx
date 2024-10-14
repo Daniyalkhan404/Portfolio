@@ -26,7 +26,7 @@ const Home = () => {
           
           </h1>
           <p className='max-w-[500px] mb-9 text-white/80'>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rerum accusamus
+            Lorem ipsum dolor, sit amet consectetur adipisicing elit.Rerum accusamus
              non iure provident qui voluptate voluptatem ipsa odit officiis.
           </p>
 
