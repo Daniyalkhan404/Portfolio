@@ -4,7 +4,6 @@ import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
 import { Textarea } from '@/components/ui/textarea';
 
-
 import React from 'react'
 import { 
   Select,
@@ -36,7 +35,9 @@ const info = [
   },
 ];
 
+
 import { motion } from 'framer-motion';
+
 
 const contact = () => {
   return (
@@ -86,8 +87,9 @@ const contact = () => {
               placeholder='"Type your message here.'
               />
               {/* button */}
-              <Button size="md" className='max-w-40'>
-                Send message 
+             <Button size="md"
+              className='max-w-40'>
+              Send message
               </Button>
               </form>
           </div>
