@@ -4,7 +4,6 @@ import React from 'react'
 import { Sheet,SheetContent,SheetTrigger } from './ui/sheet';
 import { usePathname } from 'next/navigation';
 import {CiMenuFries} from "react-icons/ci"
-import { link } from 'fs';
 import Link from 'next/link';
 
 const links = [
