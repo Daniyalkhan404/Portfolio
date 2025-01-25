@@ -9,19 +9,19 @@ const Services =[
   {
     num:"01",
     title:"Web Development",
-    description:"Lorem ipsum dolor sit amet consectetur, adipisicing elit.Labore minima molestiae architecto.",
+    description:"Building responsive, modern, and scalable web applications tailored to your needs.",
     href:""
   },
   {
     num:"02",
     title:"UI/UX Design",
-    description:"Lorem ipsum dolor sit amet consectetur, adipisicing elit.Labore minima molestiae architecto.",
+    description:"Creating intuitive, user-friendly interfaces that enhance the digital experience.",
     href:""
   },
   {
     num:"03",
     title:"Logo Design",
-    description:"Lorem ipsum dolor sit amet consectetur, adipisicing elit.Labore minima molestiae architecto.",
+    description:"Designing impactful logos that capture your brand's identity and leave a lasting impression.",
     href:""
   },
 ];

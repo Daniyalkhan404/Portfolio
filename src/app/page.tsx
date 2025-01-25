@@ -26,9 +26,8 @@ const Home = () => {
           
           </h1>
           <p className='max-w-[500px] mb-9 text-white/80'>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit.Rerum accusamus
-             non iure provident qui voluptate voluptatem ipsa odit officiis.
-          </p>
+          I build efficient software solutions to bring your ideas to life,
+           helping businesses and individuals achieve their digital goals. </p>
 
           <div className='flex flex-col xl:flex-row items-center gap-8'>
             <Button 
