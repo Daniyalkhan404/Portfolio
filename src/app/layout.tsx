@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import {JetBrains_Mono} from "next/font/google";
 import "./globals.css";
 import Header from "@/components/Header";
+import { Analytics } from "@vercel/analytics/react";
 
 import PageTransition from "@/components/PageTransition";
 import StairTransition from "@/components/StairTransition";
@@ -29,7 +30,9 @@ export default function RootLayout({
         <Header/>
         <StairTransition/>
         <PageTransition>
-        {children}</PageTransition>
+        {children}
+        <Analytics/>
+        </PageTransition>
         
       </body>
     </html>
